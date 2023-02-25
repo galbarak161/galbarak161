@@ -1,9 +1,7 @@
 
 # Hi, I'm Gal Barak
 
-## I'm a Software Engineer with the capabilities and the desire to face various challenges.
-
-## Connect with me
+### I'm a Software Engineer with the capabilities and the desire to face various challenges.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gal-barak161/)
 
 ## Tech Knowledge
